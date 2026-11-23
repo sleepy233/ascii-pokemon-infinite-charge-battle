@@ -29,7 +29,7 @@ When you see `Press Enter`, press your Enter key to proceed. If the program free
 - Rattata’s HP and damage scale up every wave.
 - If Pikachu faints or you choose to run away, the game ends. Try to beat your highest wave record!
 
-## 📖 Game Rules
+### Player Moves
 1. **Quick Attack**: Reliable high‑accuracy normal attack, resets charge progress
 2. **Thunder Shock**: Charge‑able move. Build charge over multiple turns to unleash boosted damage and paralysis.
 3. **Thunderbolt**: Heavy‑hitting power move with lower accuracy, resets charge progress
